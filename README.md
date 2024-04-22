@@ -1,4 +1,4 @@
-👋 Hi, Nathan Xie 
+👋 Hi, my name is Nathan Xie 
 
 👀 I’m interested in software development, robotics, and AI
 
