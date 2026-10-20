@@ -21,7 +21,7 @@ This project was created with a few of my friends and it combined hardware and s
 
 #### Hevy Data -> Workout Tracker (Oct 2026)
 
-I love using (https://hevy.com/)[Hevy] which is an app that helps me track my workouts with a social media aspect to it. However, there is a paywall for how much data they'll display for you which is 3 months and I've been using the app for more than a year. Their public API is also blocked by the paywall.
+I love using [https://hevy.com/](Hevy) which is an app that helps me track my workouts with a social media aspect to it. However, there is a paywall for how much data they'll display for you which is 3 months and I've been using the app for more than a year. Their public API is also blocked by the paywall.
 
 However, they do let you export all your data as a CSV. Therefore, the purpose of this project is to to have a CSV parser that will save all my workout data within a database, and have a full-stack app that will let me track and visualize my gym progress.
 
