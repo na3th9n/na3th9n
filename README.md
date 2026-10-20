@@ -19,9 +19,11 @@ This project was created with a few of my friends and it combined hardware and s
 
 ### In-progress
 
-#### Habit Tracker (Oct 2026)
+#### Hevy Data -> Workout Tracker (Oct 2026)
 
-A small project that I am working on. I know it's simple but I am **manually coding** it. I know, not impressive at all 😹. However, I realized that I have been lacking in personal projects and I wanted to start small and work up. I am using the skills I learned from my internships with swe and full-stack development and hopefully learn even more then mindlessly vibe coding everything.
+I love using (https://hevy.com/)[Hevy] which is an app that helps me track my workouts with a social media aspect to it. However, there is a paywall for how much data they'll display for you which is 3 months and I've been using the app for more than a year. Their public API is also blocked by the paywall.
+
+However, they do let you export all your data as a CSV. Therefore, the purpose of this project is to to have a CSV parser that will save all my workout data within a database, and have a full-stack app that will let me track and visualize my gym progress.
 
 Stack: React, Typescript, Node.js, Express.js
 
