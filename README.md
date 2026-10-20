@@ -1,6 +1,6 @@
 # Hi! I'm Nathan 👋
 
-I studied Engineering at the University of Waterloo (Graduated June 2026) and I am a Software Engineer. I specialize in full-stack development.
+I studied Engineering at the University of Waterloo (Graduated June 2026) and I am a Software Engineer. I specialize in full-stack development and AI.
 
 I am currently looking for 2027 New Grad SWE positions so if you are looking for a builder, contact me!
 
