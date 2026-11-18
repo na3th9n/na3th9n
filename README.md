@@ -8,7 +8,7 @@ I am currently looking for 2027 New Grad SWE positions!!!!
   <a href="https://www.linkedin.com/in/nathanxie/"><img src="https://img.shields.io/badge/LinkedIn-nathanxie-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-## For a better visual experience of who I am, check out my [portfolio website](https://nx-personal-website-owhj.vercel.app/projects)
+## For a better visual experience of who I am, check out my [portfolio website](https://nx-personal-website-owhj.vercel.app)
 
 ## Projects
 
