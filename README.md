@@ -25,7 +25,7 @@ This project was created to help me understand visually what an agent is doing w
 ### In-progress
 
 #### C (Nov 2026)
-I want to learn and understand computers. I will be following [https://beej.us/guide/bgc/html/split/index.html](Beej's Guide to C Programming) to do so. No AI usage will be allowed so I will be forced to learn.
+I want to learn and understand computers. I will be following [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/split/index.html) to do so. No AI usage will be allowed so I will be forced to learn.
 
 #### Workout Tracker (Oct 2026)
 
