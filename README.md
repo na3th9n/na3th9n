@@ -24,6 +24,9 @@ This project was created to help me understand visually what an agent is doing w
 
 ### In-progress
 
+#### C (Nov 2026)
+I want to learn and understand computers. I will be following [https://beej.us/guide/bgc/html/split/index.html](Beej's Guide to C Programming) to do so. No AI usage will be allowed so I will be forced to learn.
+
 #### Workout Tracker (Oct 2026)
 
 I love using [HEVY](https://hevy.com/) which is an app that helps me track my workouts with a social media aspect to it. However, there is a paywall for how much data they'll display for you which is 3 months and I've been using the app for more than a year. Their public API is also blocked by the paywall.
